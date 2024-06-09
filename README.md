@@ -1,2 +1,2 @@
 # RPI
-Deplyment of an IOT service
+Deployment of an IOT service
