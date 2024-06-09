@@ -1,4 +1,4 @@
-IOTServer is to be deployed in the master while IOTClient in the RPI, communication with UDP
+IOTServer is to be deployed in the server while IOTClient in the RPI, communication with UDP.
 
 Color sensor and accelerometer sensor communicate with the client RPI through I2C. 
 The Raspberry PI operating system was manually configured and developed with Buildroot to generate a Linux embbeded system later installed in the RPI. 
